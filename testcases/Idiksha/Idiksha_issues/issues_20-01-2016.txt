@@ -1,0 +1,28 @@
+1. when idiksha blog menu option is clicked error page is displaying.
+2.a)Login to the application.
+  b)After login, click on any one category(i,e daycare/school/college etc..)
+  c)Again click on different category.
+  
+ Actual result: When different category is clicked, the user is logged out automatically.
+ 
+ 3. Go to feedback page. The alignment of 'Google search' option for the second question is not proper.
+ 
+ 4. "Any Features we could improve upon?" in feedback page is made mandatory. This is not required to make mandatory.
+ 
+ 5. The name field in feedback page does not have the validation.
+ 
+ 6.a)Go to list your institutes page
+   b) Do not enter any data and click on submit button
+ Actual result: the validation message is not displayed.
+ 
+ 7.a)Go to list your institutes page
+   b)Enter special characters and numbers in business name,city,location,pincode,state,country and click on submit button.
+   
+   Actual result:the data is saved successfully. Validation is not given.No message is displayed. 
+   
+8.a)Go to list your institutes page
+  b) Enter the details in form and click on submit button.
+  c)then click on login button
+  
+  Actual result: 1. On click of submit button,message is not displayed.User will not come to know whether data is saved or not.Please display valid message after clicking the submit button.
+				 2.When login button is clicked, the data successfully saved message is displayed in the login page.

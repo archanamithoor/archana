@@ -1,0 +1,14 @@
+1. In menu group, options should be either in capital letters or small letters. Maintain consistency. (Ex: Home is in capital letters and policy in small letters)
+2. In terms and conditions page: Please maintain consistency. For ex: Some texts(side headings) are underlined and some are not. Maintain consistency in spacing. 
+3. Privacy policy page: there is a difference in text size. Please make sure that all the text should have standard font size(Especially the side headings)
+4. We are hiring page: In this page on hover of the mouse on  career@idiksha.com text is not visible.
+5. List your business page: validation is required for all the fields. At present there is no validations
+6. careers page: Click on any open positions and click to apply button.The form should have validation for all the fields
+
+------------
+
+1. Privacy Policy page: When we click on www.iDiksha.com(“Website”), www.iDiksha.in(“Website”) the page is not opening
+
+2. Search icon at the side of the page is not working all the time
+
+3. List your daycare page: after filling the form of Add your daycare page and on click of submit button error page is displaying

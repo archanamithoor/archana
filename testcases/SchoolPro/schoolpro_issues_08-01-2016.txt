@@ -1,0 +1,129 @@
+1. a) go to registration page and click on register button.
+   b) Then fill the form details. For pincode and mobile no give less than 5 digits.
+   c) Click on register button
+	
+Actual result: registration is done successfully. There is no validation given for mobile and pincode.
+
+2. a) Go to registration page and fill all the details.
+   b)for mobile and pincode enter invalid details.
+Actual result: Initially error message is displaying. But the page is redirected to login page(registration is successfully done). validation has to be given for the fields.
+
+3. Copyright has to be changed to 2016.
+
+4. a) Go to registration page and fill the form except interested in,state,city,pincode and mobile
+	b)Click on register button
+	c)Then fill interested in ,state,city fields and click on register button
+	
+Actual result: after filling the state,city and interested in fields the validation error message is displaying for interested in field.
+It should be updated.
+
+5. a) Go to registration page and enter all the fields with valid data. But for the mobile field enter 10 zeros.
+    b)Click on register button
+	
+Actual result: error page is displaying(refer mobilefield.png)
+
+6. a)Go to main link section and click on 'About us'
+Actual result: For 'about us' blog link is given. Please change the heading to 'About us'
+
+7. a)Go to main link section and click on 'Terms & Conditions'
+
+Actual result : In the page instead of 'terms & conditions' 'terms & policy ' name is given.
+
+8. a)Go to main link section and click on 'Privacy policy'
+
+Actual result : In the page instead of 'privacy policy' 'terms & policy ' name is given.
+
+9. a)Go to main link section and click on contact link
+
+Actual result: in contact page asterisk symbol should be in red colour.
+
+10. a)Go to contact link in main menu
+	b)Enter characters and special characters for name field
+	c)fill the remaining fields and click on send email button
+	
+Actual result: validation is not given for name field.
+
+11. a) Go to join newsletter
+	b) enter characters and special characters in name field
+	c)enter email id and click on subscribe button 
+	
+Actual result: validation is not given for name field.
+
+12. a) Go to login and click on forgot email link
+	
+Actual result:remove the login button from the page.
+
+13. a) Go to login and click on forgot password link
+	
+Actual result:remove the login button from the page.
+
+14. In the login page click on forgot username.Then enter the registered email address and click on submit.Message will display and at the bottom of the page click on don't have an account link.- Blank page is displayed.							
+15. In home page copy right is given properly, but in the remaining pages copy right is not proper(year is missing and given 'all rights received')
+
+16. a)go to property listing page and click on contact icon
+	b)Enter numbers and special characters in name field.
+	c)enter email id
+	d)enter mobile number greater than or less than 10 digits and click on send message button
+Actual result: validation is not given for name and mobile number fields.
+17. a)go to post your property page and enter zero in plot area.
+
+Actual result: zero is accepting. plot area can not be zero.
+
+18. a)go to post your property and check for site facing
+
+Site facing should be 8 options(east,west,north,south,north-east,north-west,south-east,south-west) and it should be radio buttons-(check with client)
+19. a) go to post your property page and  check for price.
+hundreads,tens should be included(check with client)
+
+20. a) Go to post your property page
+	b)select i want to as buy and type of property as land.
+	c)enter other amenities and fill all other details 
+	d)click on submit
+	
+result: other amenities is not displaying in my account page.
+
+21.a)go to my account page
+	b)open any one property page
+	c)check for amenities and gallery pages
+	
+result:'no amenities' and 'no images' font and colour is different. it should be same.
+
+22. a)Go to post your property 
+	b)select i want to as 'buy' and types of property as 'land+building'
+	
+result: a)built up area is taking characters,special characters and zero
+		b) plot area is taking 0.
+		c)upload images is missing(common in all the categories)
+
+23. a)Go to post your property 
+	b)select i want to as 'buy' and types of property as 'operational school'
+	
+result: a)school name is accepting special characters and numbers
+		b)name of society/trust is taking special characters and numbers
+		c)established field is taking characters,special characters. it should accept only 4 digits.
+		d)number of students is taking characters and special characters
+		e)boarding school capacity is taking characters and special characters
+		f)day school capacity is taking characters and special characters
+		g)admission fee is taking characters and special characters
+		h)anual tution fee is taking characters and special characters
+		i)num of other staff is taking characters and special characters
+		j)num of teaching staff is taking characters and special characters
+		k)price should be a mandatory field(it can not be zero). make this mandatory in all the categories.
+		
+24. a)Go to my account page and click on any property.
+	b)in post your property do not give the locality
+	
+	result: in my account page for location comma is displaying at the beginning.
+	
+25. a)Go to post your property page
+	b) select i want to as 'sell' and type of property as 'land+building'
+	c)enter built up area value greater than plot area and enter other details
+	d) click on submit button
+	
+result: built up area can not be greater than plot area.
+
+
+--------------------09-01-2016-------------------------
+
+
+ 

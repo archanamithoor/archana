@@ -1,0 +1,17 @@
+1. Home page: In the middle of the home page contact us button is given, but the button is not working.
+2. Home page: In Happy Parents block Testimonial button is not working.
+3. Home page: In the bottom of the page Quick Enquiry button is not working
+4. Home page: Remove the Quick menu options from the bottom of the page.
+5. About Us : In welcome page remove the click able options given at the right side of the page.( About Us,The Founders,Our Philosophy,Why Explorika?,Schedule a Visit)
+6. Programs : In Early Learning + Child Care click on schedule a visit button. Here change the colour of the asterisk symbol to red.
+7. Programs : In Early Learning + Child Care page for gender radio button is not given.
+8.Programs : In Early Learning + Child Care page after filling the form details are not saved.
+9. Point 6,7,8 has to be applied in after school care, Early learning school,Emergency care and Admissions.
+10. Admissions:  In Fee Structure page increase the font size for fee structure document.
+
+-----------
+
+11. Validation is required for all the fields of parent information page.
+12. validation is required for all the fields in career page form.
+
+13. Blog Page: In leave a reply page the previous users name and email id are stored. It should be cleared.

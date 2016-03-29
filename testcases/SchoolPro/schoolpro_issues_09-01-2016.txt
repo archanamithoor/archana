@@ -1,0 +1,57 @@
+1. a)Go to property listing page and enter some valid text(i,e land) in keyword field and keep the remaining field blank
+   b)Click on search button
+
+result:the property is not listed. (check with client)
+
+2.a)Go to property listing page and keep all the fields blank
+   b)Click on search button
+		
+result: in type your city by default bagalkota is displaying.(check with client)
+
+3. a)Go to property listing page and enter some valid area in area field and keep the remaining field blank
+   b)Click on search button
+
+result:the property is not listed. search field is not user friendly.(check with client)
+
+4.Compatibility issue: a) open the schoolpro link in IE browser(version 11).
+		       b) Click on register in home page.
+			c)in registration page click on logo and other menus.
+
+result:a. in registration page menu,login and logo is not working.
+	b. this issue exists in inside menu pages and in main links pages also.	
+5. a) open the link in IE browser and click on login button
+   b)Enter login details and click on submit button.
+   c) in property listing page click back button.
+
+result: on clicking the back button in property listing page, 'login to your account' page is displaying.In login page loading symbol is also displaying
+
+6.a) Go to login page and click on forgot email/password
+  b)  enter the email address and click on submit button
+
+result:After entering the submit, login option is available at the top of the page. Please remove the login button.
+
+7. a)Go to property listing page (IE browser)
+   b) Observe the dropdown symbol for type of property and looking to
+
+result: Dropdown symbol is displaying 2 times
+
+8.a) Go to post your property page and select type of property as operational school.
+  b)enter number of students value greater than boarding school capacity+day school capacity.
+
+result: validation is not given.Num of students value can not exceed boarding school capacity+day school capacity value
+
+9 a)Go to notification page.
+result: alignment of the message text box with arrow symbol is not proper.
+
+10. a)Go to join news letter section and type email address
+result: email field is not accepting numbers and special characters.
+
+11. a)go to registration page 
+    b)Paste some text in name field(using ctrl+v button).
+
+result: ctrl key is not working for name field
+
+12. a) Go to registration page
+    b)On hover the mouse on text field name.
+
+result: html code is visible to the user. Please hide the code.

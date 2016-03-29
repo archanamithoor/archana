@@ -1,0 +1,9 @@
+1. In registration page when invalid pin code and mobile numbers are entered, validation message is displaying.But at the same time the page is redirecting to the payment page.-new issue
+2. Home page : email is not working in contact page.-new issue
+3. In the login page click on forgot user name.Then enter the registered email address and click on submit.Message will display and at the bottom of the page click on don't have an account link.- Blank page is displayed.-existing issue.not fixed							
+4. Post your property page: When all the fields are entered with valid data and submit button is clicked a warning message is displaying (i,e field required:board). This message is not allowing to save the details.-new issue
+5.Post your property page: In step2, for price give 0 for all the 3 fields in the dropdown list.existing, not fixed
+6. Home page: The social network link is not working at the footer of the page.-new
+
+
+			

@@ -1,0 +1,86 @@
+1. a)Go to register page.
+	b)Enter numbers and special characters for surname and first name.
+	c)Enter space for password
+	d)Click on register button
+	
+Actual result: surname and first name field is accepting numbers and special characters.
+Password field is accepting the space.
+
+Expected result: validation should be given to surname and first name.
+password should not accept space.
+
+2. a) Go to login page.
+	b)Enter invalid username and valid password
+	c) click on login button.
+	
+Actual result:Error message is  displaying(ajax request failed). Page is loading and not able to close the login popup window.
+Expected result:Should display validation error message
+
+3. The second issue exists for:
+a)invalid user name and password
+b)valid user name and invalid password
+
+4. a.Enter valid username,password and select Remember me option    
+   b. click on login button.          
+   c. Logout and again click on login button
+   
+Actual result:Username and password is not displayed
+Expected result:Username and password should be present in the text fields.
+
+5. a.Click on facebook and google icon in the login page
+
+Actual result:New window is displayed, but error message is coming
+
+6. a)Go to Camper5 Home page
+	b)Check the alignment of year in check in date
+	
+Actual result:Alignment is not proper.
+
+7. Copyright has to be changed to 2016
+
+8.a)Login to the application
+	b)Click on caravans in menu option
+	c)Select any one caravan from the list of caravans
+	d)click on recommendation button
+Actual result:recommendation button is not working
+
+9. a)Go to add caravan page
+	b)Enter special characters and numbers in name of owner field
+	c)Enter characters and special characters in maximum berth field
+	d) Enter characters,special characters and numbers greater than or less than 4 digits.
+	e)enter characters and special characters in session rates.
+	f)Enter numbers and special characters in booked by and location fields.
+	g)Enter characters and special characters in amount field.
+	h) enter characters and special characters in price and deposit fields.
+	i)click on submit button.
+	
+Actual result: Caravan is saved successfully. No validation is given for the above mentioned fields.
+
+10.a)Do not login to the application
+	b)select caravans from menu and select any one caravan from the caravans list.
+	c)Enter check in,check out, no of guests and click on instant book.
+	
+Actual result: the page is redirecting to payment page
+Expected result: Login page has to be displayed on click of instant book button.
+
+11.a)Do not login to the application
+	b)select caravans from menu and select any one caravan from the caravans list.
+	c)click on recommendation button
+	
+Actual result:Recommendation button is not working. 
+Expected result: when recommendation button is clicked the login page should display.
+
+12.a)Go to add caravan page
+	b)enter manufacture year greater than the current year
+	
+Actual result: field is accepting the value.
+Expected year:validation has to be given. Manufacture year can not be greater than current year.
+
+13. In add caravan page, maximum berth can not be 0.
+14.a)go to add caravan page 
+	b) Do not enter any data and click on submit button.
+	c)After getting the error messages, enter the fields with the valid data and click on submit button.
+	
+Actual result: When submit button is entered after filling the form,the data is not saved.
+
+

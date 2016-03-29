@@ -1,0 +1,25 @@
+1. Home page:When Contact button is clicked in the main links block error page is displayed(refer 1.png)
+2. Under Main links in Home page:a) For About Us -Blog link is given
+								 b)For FAQ, Cancellation policy,Terms & conditions- No proper heading and to come back previous page logo has to be clicked. Main links option is missing.(refer 2.png)
+3.Home page:Click on school properties in India at the bottom of the page.Login page will display. At the top of the page Login  button is displaying, which is not required.(refer 3.png and 4.png)
+4.Home page:Click on school properties in India at the bottom of the page.Login page will display. At the bottom of the page footer alignment is not proper.(refer 5.png)
+5. Enter username, password and click on submit button in login page of home page.
+Actual result: After clicking the submit button again login page is displaying.
+Expected result: Should redirect to user info page.
+6. Not able to login to the application.(refer 6.png)
+
+Responsive design issues:
+1.Home page- underline of"How it works" is too long- not done
+2. Home page: At the bottom of the page(footer) alignment is not proper(all the pages).-not done
+3. Registration page alignment is not proper.All the fields are jumbled.
+4. User info page: schoolprop logo is shifted to centre( not in the left).Maintain consistency in all the pages.
+5 User info page:alignment of  my account,post your property,notification,logout icons and username is not proper.
+6. User info page: my account,post your property,notification,logout icons are shifted to center.
+7.User info page: In property list google+ is displaying in the new line
+8. Login Page: Login button is shifted to left side. It should be in center.
+9. Login Page: Close button for message 'please login first' is displaying out of the page.
+10. When Forgot username and password is clicked, message box will display. Alignment of the message box is not proper.
+11.When Buyer service,About us, Blog, Feedback, Terms & policy is clicked the corresponding page is displayed. But the background image(building image) is not continuously displayed. 
+12. Uer Info page: Click on any one property in property list. Pop up page will display with property details.
+Actual result: Posted on date is displaying in 2 lines.Expected price is displaying in 2 lines(rs in one line and cost in next line)
+13. Notification page: 'Everything you need to start a school in india' -box alignment is not proper

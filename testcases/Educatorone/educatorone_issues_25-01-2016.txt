@@ -1,0 +1,4 @@
+1. a)Go to post a job page.
+   b)enter all the details and click on  post job button.
+   
+Actual result: For joining data field validation is not given.It is accepting all the dates.Joining date should accept only present date and upcoming one.

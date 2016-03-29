@@ -1,0 +1,76 @@
+1. Registration page: In the city field garbage value is displaying and drop down field is shifted to right (refer image 1.png).
+
+2. Validation issues in registration page: a)Name: This field is taking numbers, special characters etc..Should accept only characters.
+										   b)State and city: If the city and state is not selected, then no validation message is displaying
+										   c)pincode: Pincode field is accepting numbers with greater than 6,less than 6,characters,special characters.
+										   d)Mobile: is accepting numbers greater and less than 10 digits.
+
+3.After registering the new user, message will display in the login page. But by default password is displaying.User name field is empty.
+
+4. Login page: When invalid user name and password is entered, validation message is not displayed. Instead of message page is displaying with loading symbol
+
+5. In the login page click on forgot username.Then enter the registered email address and click on submit.Message will display and at the bottom of the page click on don't have an account link.- Blank page is displayed.							
+
+6.Post your property page: In step2, for price give 0 for all the 3 fields.
+
+7.Post your property page:In step 3, When the state is selected city field is disappearing.
+
+8. Listing popup page:In details page expected price is not correctly displaying(Full price is not displaying).
+Ex: Instead of 50,00000 rs 50 is displaying and price cannot be 0.
+
+9. My account page: Click on manage button->In location field comma is displayed at the beginning.
+
+10. Home page: In main links(bottom of home page) wrong links are given:
+	a)For About Us, blog link is given
+	b)For FAQ,Cancellation policy,terms & conditions,contact no link is given
+
+11.Home page:Click on school properties in India at the bottom of the page.Login page will display. But along with login my account,post your property,notification and logout icons are also displaying
+these icons are not required in the login page.(refer 2.png)
+
+12. Click on post your property and do not enter any data for all the fields and click on submit button.
+  Actual result: Validation message is displayed. But  the addres field is not displayed in the message. It is taking blank value.(refer 4.png)
+
+13.Post your property page :In step 2 asterisk symbol is not given in front of price. But the symbol is given i front of 'per'.
+
+14.Post your property validation issues:
+	1) In Step1: Select I want to as buy,willing to explore as partnership model, type of propert as land, enter title,select ownership,select Hide contact neme and phone number.
+	   In Step2: Enter special characters and characters in plot area field, Do not select any value for price.
+	   In Step3: Select the state and city and click on submit button
+Actual result: saved successfully. No validation error message is displayed for plot area field,price.
+	2) In Step1: Select I want to as sell,willing to explore as partnership model, type of propert as land+building, enter title,select ownership,select Hide contact neme and phone number.
+	   In Step2: Enter special characters and characters in built up area field and plot area field, Do not select any value for price.
+	   In Step3: Select the state and city and click on submit button
+Actual result: saved successfully. No validation error message is displayed for plot area field,price, builtup area .
+	3) In Step1: Select I want to as sell,willing to explore as partnership model, type of propert as operational school, enter title,select ownership,select Hide contact neme and phone number.
+	   In Step2: Enter school name,website,type of school,courses offered,nature of accomodation, accomodation for,name of society or trust,established,affiliation status,board to affiliated to,give special characters and characters in no of students,boarding school capacity,days school capacity,admission fee, annual tuition fee,number of teaching and other staff,select amenities and enter plot area.
+	   In Step3: Select the state and city,choose image for galery and click on submit button
+Actual result:1. saved successfully. No validation error message is displayed for no of students,boarding school capacity,days school capacity,admission fee, annual tuition fee,number of teaching and other staff.
+	      2.type of school,nature of accomodation,Board To Affiliated To,amenities and images in the gallery is not displayed 
+
+15. My Account page: In looking for field junk value is displaying(refer 5.png)
+
+16. Built up area detail is not displaying in my accounts property page
+
+17. Notification page:"Get in touch today" button in advertisement page is not working.
+
+18. Join Newsletter: when name, password is entered and  suscribe button is clicked error message is displaying.(refer 6.png)
+
+19. Property listing page: there is no validation for name and phone number in contact page.(refer 7.png)
+
+Responsive design issues:
+1.Home page- underline of"How it works" is too long- not done
+2. Home page: At the bottom of the page(footer) alignment is not proper(all the pages).-not done
+3. Registration page alignment is not proper.All the fields are jumbled.
+4. User info page: schoolprop logo is shifted to centre( not in the left).Maintain consistency in all the pages.
+5 User info page:alignment of  my account,post your property,notification,logout icons and username is not proper.
+6. User info page: my account,post your property,notification,logout icons are shifted to center.
+7.User info page: In property list google+ is displaying in the new line
+8. Login Page: Login button is shifted to left side. It should be in center.
+9. Login Page: Close button for message 'please login first' is displaying out of the page.
+10. When Forgot username and password is clicked, message box will display. Alignment of the message box is not proper.
+11.When Buyer service,About us, Blog, Feedback, Terms & policy is clicked the corresponding page is displayed. But the background image(building image) is not continuously displayed. 
+12. Uer Info page: Click on any one property in property list. Pop up page will display with property details.
+Actual result: Posted on date is displaying in 2 lines.Expected price is displaying in 2 lines(rs in one line and cost in next line)
+13. Notification page: 'Everything you need to start a school in india' -box alignment is not proper
+
+

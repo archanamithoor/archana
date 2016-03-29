@@ -1,0 +1,50 @@
+Designs:
+1. Ara management- linked again to same page
+2. Evosourse website link is not working(http://www.evosourcenetwork.com/)
+3. Vstore-linked again to same page
+4.Sri smaran-linked again to same page
+5. Media 9-linked again to same page
+6. Senthil-kumar-linked again to same page
+7. Media 9 celebrity-linked again to same page
+8. Yokirana- linked again to same page.
+9. Media 9 About-linked again to same page.
+10. jongpong-website link is not working(http://jongpong.com/)
+11. shilpalaya-linked again to same page.
+12. Strand emporium-linked again to same page.
+13.Lion- linked again to same page.
+14.Hotes etc-linked again to same page.
+15. Game-linked again to same page.
+16.Fresh water creation-linked again to same page.
+17. Exquisite-linked again to same page.
+18.Dale-linked again to same page.
+19.Best-cellars-linked again to same page
+
+Wordpress:
+1. Lion Mortage- Website link is not working(http://lionmortgage.com/beta/)
+2.Ankuran-Website link is not working(http://www.ankuranpreschool.com/)
+3.Star and you- Website link is not working(http://www.starandyou.com/)
+4.navajyothi-Website link is not working(http://navajyothigroup.com/)
+5.sai smaran-linked again to same page
+6. Media 9-linked again to same page
+
+Joomla:
+1.Ara management-linked again to same page
+2. Biomatics-variance.project link is given.
+3. Click on evosupply. The page is not aligned properly.
+4. Evosourse-Website link is not working(http://www.evosourcenetwork.com/)
+5. Tricorp Enterprise- linked again to same page
+6. Click Web pro- linked again to same page
+
+Magento:
+
+1.needs busy:linked to same page
+2. Sparesandlubricants-website link is not working
+3.yokirana- linked again to same page
+4.jongpong- website link is not working
+5. Vitality -website link is not working(http://www.mkmvitality.com/)
+
+
+Php:
+
+1. Employeeavailability:website link is not working(http://employeeavailability.com/)
+2. media 9-same website link is given

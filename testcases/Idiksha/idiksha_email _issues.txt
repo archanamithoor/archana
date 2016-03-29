@@ -1,0 +1,34 @@
+For Daycare:
+1.Institute listing page(daycare) :Comma is required after hi<<user name>> field in tell a friend for user template.
+
+2. Institute listing page (For email to the institute in contact us page for daycare):  
+	In the below sentence after comma the 'O' should be small letter not capital letter. Even this mistake is there in template as well.
+Also, Our representative will get in touch with you within 2 working days to get the update so that we can close the request from user.
+
+3. Tell A Friend (Institute listing page Button):In Email to a friend template, please change: Hi archanamithoor@gmail.com to Hi archanamithoor. The first one is not correct.
+
+4.	Request Call Back (Institute page Button): In Email to the User template a full stop is missing at the end of the below sentence.
+"Thank you for requesting to call-back from Daycare HELLO KIDS - LILIZ"
+
+5.Post Review (Institute page Button):  Email to user page, in the below sentence after comma the 'O' should be small letter not capital letter.
+"Also, Our representative may call you within 2 working days to provide you more information."
+
+
+For School:
+1.Contact US (Institute listing page Button): In Email to the User template, give comma after hi <user name>.
+
+2. Tell A Friend (Institute listing page Button):In Email to the User template, give comma after hi <user name>.
+
+3. Tell A Friend (Institute listing page Button): In Email to the friend page, give comma after hi.
+
+4. Above issue is found in all the categories(General). Please check all the templates and do the correction.
+
+College:
+
+1. Tell A Friend (Institute listing page Button): In Email to the Friend template institute name with hyperlink  is not working.
+
+
+
+
+
+

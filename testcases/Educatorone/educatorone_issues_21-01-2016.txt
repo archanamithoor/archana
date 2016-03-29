@@ -1,0 +1,56 @@
+1. Change the copyright to 2016.-done
+
+2.a)Go to educatorone.com url and click on register button
+	b)Enter special characters and numbers in first name and last name field.
+	c)enter 10 or 11 digits in mobile no field
+	
+Actual result:No validation is given for the above mentioned conditions.-done
+
+3. Social network links are not working.-done
+
+4. a)Go to educatorone home page.
+   b)Select location,subject,type of institute, job type in find your job field and click on submit button.
+Actual result: on click of submit button, the selected text in the above mentioned fields are not displaying.-not fixed.
+
+5. When invalid username and password is entered in login field the message is displaying in separate page. And to come back to the home page back button has to be clicked.-done
+
+6.a)register as educator
+   b)Go to user profile page.
+   c)In educational qualification field, enter characters and special characters for year field.-done
+   
+Actual result: year field is accepting characters and special characters. Validation is not given.
+
+7.a)register as educator
+   b)Go to user profile page.
+   c)In job experience field, enter characters and special characters for year field.
+   
+Actual result: year field is accepting characters and special characters. Validation is not given.
+Note: Please add validation for year field wherever it is present.-done
+
+8.a)register as educator
+   b)Go to user profile page.
+   c)In references field enter numbers and special characters for name.
+   d)enter characters,special characters and invalid phone number for phone number field.-done
+   
+Actual result:  Validation is not given.
+
+9.a)In registration page if the user enters email id in username field, then registration will be done successfully. But user cannot login to the application.
+Please give validation message for username field, if the user enters email id.- done
+
+10. Forgot username link is missing.-not done
+
+11. Payment page is throwing error. That is after entering the card details. So the user is not able to proceed further.-done
+
+12.Give the validation for language in user profile page.Language field can accept only characters.-done
+13.a)Go to post a job page 
+   b)enter the details and click on post job button.
+Actual result: On click of post job button error page is displaying.- done(user should fill all the details)
+
+14. a)Go to reset password page.
+	b)Enter same password in old and new password field
+Actual result:Accepting same old and new password .
+Note: Old password and new password can not be same.-not done
+
+15. a)Go to educators page.
+     b)Click on user's email link.
+Actual result:The page is crashing.-not done

@@ -1,0 +1,10 @@
+1. For not registered user- in the login page default user login information is displaying.
+2. My Account: In address book, validation is not given for all the fields of contact information.
+3. Follow Us: None of the links are working
+
+Responsive website issues in tablet:
+1. Menu options are not displaying in home page
+
+Responsive webdesign issues in cell phones:
+1. Menu options are not displaying in home page.
+2. Home page: In best seller, the products price and type of product alignment is not proper.

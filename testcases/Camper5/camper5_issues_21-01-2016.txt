@@ -1,0 +1,10 @@
+1. a)Enter the following url in safari browser(version:5.1.4):http://varinfo-ecommerce.com/camperfive/
+	b)Check for "How it works" video.
+Actual result: the video is not displaying.
+
+2. a)Go to url: http://varinfo-ecommerce.com/camperfive/
+	b)Login to the application
+	c)Select Dashboard from menu.
+	d)Click on listings and click Add new button
+	e)Fill the details in add caravan page and click on submit button.
+Actual result: When submit button is clicked the caravan is not saved and no message is displayed.

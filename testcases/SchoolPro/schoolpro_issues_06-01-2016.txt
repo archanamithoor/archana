@@ -1,0 +1,17 @@
+1. Register page: Name field is not taking capital letters.
+2.Alignment issue in registration page(refer register.png)
+3. Alignment issue in contact page(contact.png)
+4. Tab is not working in registration page for name field.
+5.pin code and mobile no field is accepting all the fields with zero(pin code:000000, mobile num: 0000000000)
+6.listing page:place the social network link (google+) in single line.(refer social_network.png)
+7. Listing page: posted by text should display in single line (refer social_network.png).
+9. Listing page : price value can't be zero.
+10. My account page: Renewal date should display in single line.
+11.Post your property page: a) title field is accepting special characters.
+							b)plot area is accepting zero.
+12.Upload images in post your property page. But the images are not displaying in my account page.	
+13. Post your property page: Built up area can not be greater than plot area.	
+14. My account page : Built up area is not displayed in my account page.
+15. My Account page : For expected price unit(sq.feet,sq.yard,sq.meters,acres) is not displayed
+-----------------
+16.when user is logged in the listing page shows warning message
